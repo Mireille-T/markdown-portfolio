@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### List of Attributes:
+* **3D modelling** (_Blender_, TinkerCAD, Vectary)
+* **Coding** (_C_, _C++_, CSS, HTML, JavaScript, Python, SQL)
+* **Multilingual** (Chinese, _English_, Spanish)
